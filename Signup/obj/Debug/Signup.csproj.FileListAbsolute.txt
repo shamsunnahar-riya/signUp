@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\Signup\Signup\bin\Debug\Signup.exe.config
+C:\Users\LENOVO\source\repos\Signup\Signup\bin\Debug\Signup.exe
+C:\Users\LENOVO\source\repos\Signup\Signup\bin\Debug\Signup.pdb
+C:\Users\LENOVO\source\repos\Signup\Signup\obj\Debug\Signup.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Signup\Signup\obj\Debug\Signup.Form1.resources
+C:\Users\LENOVO\source\repos\Signup\Signup\obj\Debug\Signup.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Signup\Signup\obj\Debug\Signup.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Signup\Signup\obj\Debug\Signup.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Signup\Signup\obj\Debug\Signup.exe
+C:\Users\LENOVO\source\repos\Signup\Signup\obj\Debug\Signup.pdb
